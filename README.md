@@ -19,6 +19,7 @@ I'm a Computer Science Engineering student passionate about Full Stack Web Devel
 
 - LinkedIn: https://www.linkedin.com/in/bytevortex/
 - Email: akshatanwar24@gmail.com
+- Web: www.bytevortex.in
 
 Feel free to explore my repositories and connect with me. Let's collaborate and build something amazing together!
 
