@@ -1,6 +1,6 @@
 # Hi there, I'm Akshat Saini! 👋
 
-I'm a Computer Science Engineering student passionate about Full Stack Web Development and exploring the endless possibilities of technology. Welcome to my GitHub profile! <!--Here you'll find a collection of projects that reflect my journey in software development and showcase my skills and interests.-->
+A Full Stack Developer with a B.Tech in Computer Science and Engineering. I specialize in creating scalable, high-performance web applications using modern technologies across the stack. My experience spans full-stack development, testing, cybersecurity. I’m driven by a passion for clean code, intuitive UX, and impactful digital experiences—thriving in environments where technology meets purpose. Welcome to my GitHub profile! <!--Here you'll find a collection of projects that reflect my journey in software development and showcase my skills and interests.-->
 
 <!--## 🔭 Current Projects
 
